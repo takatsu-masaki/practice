@@ -1,1 +1,1 @@
-alert("はろー、ぎっとはぶ");
+alert("Good Morning、ぎっとはぶ");
